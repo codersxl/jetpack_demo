@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">koltin_demo_test</string>
+    <string name="network_not_good">断网了</string>
+</resources>
